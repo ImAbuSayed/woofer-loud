@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/woofer-loud/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Woofer Loud](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/woofer-loud/) |
+| **Get License** | [Official Music Licensing for Woofer Loud](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/woofer-loud/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3319c11aab38fdf303092bf664d27dd78d3819c8a2240047f607b504c0601018` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
